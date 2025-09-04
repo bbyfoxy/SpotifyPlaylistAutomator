@@ -1,6 +1,7 @@
 # Spotify Playlist Automator
 
 ## Installation
+Install the .zip folder and extract the files
 Download and install [Python](https://www.python.org/downloads)
 Run main.exe to start the program
 
